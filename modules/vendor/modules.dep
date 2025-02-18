@@ -86,7 +86,6 @@
 /vendor/lib/modules/phy-qcom-ufs-qmp-v4-parrot.ko:
 /vendor/lib/modules/gpr_dlkm.ko: /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/wl2866d.ko:
-/vendor/lib/modules/asix.ko:
 /vendor/lib/modules/msm_performance.ko:
 /vendor/lib/modules/qcom_glink_smem.ko: /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/cdsprm.ko:
@@ -251,7 +250,6 @@
 /vendor/lib/modules/qrtr-smd.ko: /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/mhi_dev_net.ko:
 /vendor/lib/modules/swr_haptics_dlkm.ko: /vendor/lib/modules/swr_dlkm.ko
-/vendor/lib/modules/ax88179_178a.ko:
 /vendor/lib/modules/bt_fm_slim.ko: /vendor/lib/modules/btpower.ko /vendor/lib/modules/slimbus.ko
 /vendor/lib/modules/adsp_loader_dlkm.ko: /vendor/lib/modules/spf_core_dlkm.ko /vendor/lib/modules/gpr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/coresight-funnel.ko: /vendor/lib/modules/coresight.ko

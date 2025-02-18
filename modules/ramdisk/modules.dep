@@ -98,7 +98,6 @@
 /lib/modules/millet_hs.ko: /lib/modules/millet_core.ko
 /lib/modules/phy-qcom-ufs-qmp-v4-parrot.ko: /lib/modules/phy-qcom-ufs.ko
 /lib/modules/wl2866d.ko:
-/lib/modules/asix.ko:
 /lib/modules/gcc-waipio.ko: /lib/modules/clk-dummy.ko /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/debug-regulator.ko /lib/modules/proxy-consumer.ko
 /lib/modules/qcom-cpufreq-hw.ko:
 /lib/modules/msm_performance.ko: /lib/modules/qcom-pmu-lib.ko /lib/modules/qcom_llcc_pmu.ko /lib/modules/sched-walt.ko /lib/modules/qcom-cpufreq-hw.ko /lib/modules/metis.ko /lib/modules/mi_schedule.ko
@@ -292,7 +291,6 @@
 /lib/modules/mhi_dev_net.ko: /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
 /lib/modules/regmap-spmi.ko:
 /lib/modules/sched-walt.ko: /lib/modules/qcom-cpufreq-hw.ko /lib/modules/metis.ko /lib/modules/mi_schedule.ko
-/lib/modules/ax88179_178a.ko:
 /lib/modules/bt_fm_slim.ko: /lib/modules/btpower.ko /lib/modules/slimbus.ko
 /lib/modules/clk-rpmh.ko: /lib/modules/qcom_rpmh.ko /lib/modules/cmd-db.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
 /lib/modules/ufs_qcom.ko: /lib/modules/qcom-reboot-reason.ko /lib/modules/ufshcd-crypto-qti.ko /lib/modules/crypto-qti-common.ko /lib/modules/crypto-qti-hwkm.ko /lib/modules/hwkm.ko /lib/modules/tmecom-intf.ko /lib/modules/qcom-scm.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/debug-regulator.ko /lib/modules/proxy-consumer.ko /lib/modules/phy-qcom-ufs.ko
